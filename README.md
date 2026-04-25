@@ -1,4 +1,4 @@
-# KDE-Transception
+# KDE-Transception (Work in progress!!)
 A KDE theme setup with accent coloring and semi-transparency+blur as the main focus
 
 # Things used:
